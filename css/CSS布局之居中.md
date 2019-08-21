@@ -92,11 +92,11 @@
   **示例**
   		**当我们把child的定位取消时**
 
-  ![屏幕快照 2019-08-21 下午9.17.25](/Users/sean/Documents/Typora/images/屏幕快照 2019-08-21 下午9.17.25.png)
+  ![image](https://github.com/myxus111/web-blog/blob/master/images/blog-css0.png)
 
   ​	**打开child的相对定位时**
 
-  ![屏幕快照 2019-08-21 下午9.17.38](/Users/sean/Documents/Typora/images/屏幕快照 2019-08-21 下午9.17.38.png)
+  ![image2](https://github.com/myxus111/web-blog/blob/master/images/blog-css1.png)
 
   4.**绝对定位元素水平居中**
   		这种方式通过子元素的绝对定位，外加margin:0 auto;
