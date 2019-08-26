@@ -6,10 +6,13 @@
 
 > **CSS**
 
-1.[css居中布局（水平&&垂直）](https://github.com/myxus111/web-blog/blob/master/css/CSS布局之居中.md)
+1.[css居中布局（水平&&垂直）](https://github.com/xushuosean/web-blog/blob/master/css/CSS布局之居中.md)
+
+2.[经典三栏布局之圣杯、双飞翼、弹性布局](https://github.com/xushuosean/web-blog/blob/master/css/经典三栏布局之圣杯、双飞翼、弹性布局.md)
 
 > **web网络**
 
-1.[GET与POST方法的区别](https://github.com/myxus111/web-blog/blob/master/web网络/get与post两种请求方法的区别.md)
+1.[GET与POST方法的区别](https://github.com/xushuosean/web-blog/blob/master/web网络/get与post两种请求方法的区别.md)
 
-2.[深入浅出TCP与UDP协议](https://github.com/myxus111/web-blog/blob/master/web网络/深入浅出TCP与UDP协议.md)
+2.[深入浅出TCP与UDP协议](https://github.com/xushuosean/web-blog/blob/master/web网络/深入浅出TCP与UDP协议.md)
+

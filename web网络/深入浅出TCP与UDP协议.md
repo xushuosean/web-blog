@@ -10,7 +10,7 @@ TCP/IP 是互联网相关的各类协议族的总称，比如：TCP，UDP，IP�
 
 ### 网络参考模型
 
-![](https://github.com/myxus111/web-blog/blob/master/images/tcp01.png)
+![](https://github.com/xushuosean/web-blog/blob/master/images/tcp01.png)
 
 当通过http发起一个请求时，应用层、传输层、网络层和链路层的相关协议依次对该请求进行包装并携带对应的**首部**，最终在链路层生成**以太网数据包**，以太网数据包通过物理介质传输给对方主机，对方接收到数据包以后，然后再一层一层采用对应的协议进行拆包，最后把应用层数据交给应用程序处理。
 
@@ -28,7 +28,7 @@ TCP/IP 是互联网相关的各类协议族的总称，比如：TCP，UDP，IP�
 
 因此传输层引入了**UDP协议**来解决这个问题，为了给每个应用程序标识身份，UDP协议定义了**端口**，同一个主机上的每个应用程序都需要指定唯一的端口号，并且规定网络中传输的数据包必须加上端口信息。 这样，当数据包到达主机以后，就可以根据端口号找到对应的应用程序了。如下图所示：
 
-![](https://github.com/myxus111/web-blog/blob/master/images/tcp02.png)
+![](https://github.com/xushuosean/web-blog/blob/master/images/tcp02.png)
 
 因此我们可以总结它的几个特点：
 
@@ -81,7 +81,7 @@ UDP 头部包含了以下几个数据：
 
 如图所示：
 
-![](https://github.com/myxus111/web-blog/blob/master/images/tcp03.png)
+![](https://github.com/xushuosean/web-blog/blob/master/images/tcp03.png)
 
 ### 四次挥手
 
@@ -97,7 +97,7 @@ UDP 头部包含了以下几个数据：
 
 如图所示：
 
-![](https://github.com/myxus111/web-blog/blob/master/images/tcp04.png)
+![](https://github.com/xushuosean/web-blog/blob/master/images/tcp04.png)
 
 **TCP协议的特点**
 

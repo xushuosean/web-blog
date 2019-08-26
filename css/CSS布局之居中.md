@@ -92,11 +92,11 @@
   **示例**
   		**当我们把child的定位取消时**
 
-  ![image](https://github.com/myxus111/web-blog/blob/master/images/blog-css0.png)
+  ![image](https://github.com/xushuosean/web-blog/blob/master/images/blog-css0.png)
 
   ​	**打开child的相对定位时**
 
-  ![image2](https://github.com/myxus111/web-blog/blob/master/images/blog-css1.png)
+  ![image2](https://github.com/xushuosean/web-blog/blob/master/images/blog-css1.png)
 
   4.**绝对定位元素水平居中**
   		这种方式通过子元素的绝对定位，外加margin:0 auto;
