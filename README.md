@@ -21,3 +21,6 @@
 1.[DOM操作（基础版）](https://github.com/xushuosean/web-blog/blob/master/js/DOM操作（基础版）.md)
 
 2.[排序算法的实现之Javascript](https://github.com/xushuosean/web-blog/blob/master/js/排序算法的实现之Javascript.md)
+
+3.[call、apply、bind的用法](https://github.com/xushuosean/web-blog/blob/master/js/call、apply、bind的用法.md)
+
