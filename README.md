@@ -24,3 +24,5 @@
 
 3.[call、apply、bind的用法](https://github.com/xushuosean/web-blog/blob/master/js/call、apply、bind的用法.md)
 
+4.[this指哪儿](https://github.com/xushuosean/web-blog/blob/master/js/this指哪儿.md)
+
