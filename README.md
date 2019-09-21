@@ -26,3 +26,4 @@
 
 4.[this指哪儿](https://github.com/xushuosean/web-blog/blob/master/js/this指哪儿.md)
 
+5.[从作用域链看闭包](https://github.com/xushuosean/web-blog/blob/master/js/从作用域链看闭包.md)
